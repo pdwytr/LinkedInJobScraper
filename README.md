@@ -45,5 +45,5 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 
 
 ## Example Run
-    python jobs 'data analyst' 'Dallas'
+    python.py jobs 'data analyst' 'Dallas'
 
