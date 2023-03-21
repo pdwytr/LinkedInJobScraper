@@ -39,5 +39,6 @@ These can be installed using pip:
 
 pip install requests beautifulsoup4 pandas nltk
 
+estimated time to complete 5-10 minutes
 
 
