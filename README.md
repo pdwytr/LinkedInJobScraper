@@ -8,7 +8,7 @@ To use this script, run it in the command line and provide the job title and loc
 
 python
 
-python linkedin_scraper.py "Data Analyst" "San Francisco, CA"
+    python jobs.py "Data Analyst" "San Francisco, CA"
 
 The script will scrape the first 250 job listings that match the provided search criteria (25 listings per page, up to 10 pages) and extract the following information for each job:
 
@@ -39,11 +39,5 @@ These can be installed using pip:
 
 pip install requests beautifulsoup4 pandas nltk
 
-License
 
-This project is licensed under the terms of the MIT license. See the LICENSE file for details.
-
-
-## Example Run
-    python.py jobs 'data analyst' 'Dallas'
 
